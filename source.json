@@ -2,324 +2,69 @@
   "Plugins": [
     {
       "Name": "Radar",
-      "OriginalAuthor": "instantsc",
+      "OriginalAuthor": "excore2",
       "Repositories": [
         {
-          "Author": "instantsc",
+          "Author": "excore2",
           "Name": "Radar"
         }
       ],
       "Description": "Displays the full map outline and more",
-      "EndorsedAuthor": "instantsc"
+      "EndorsedAuthor": "excore2"
     },
     {
       "Name": "ReAgent",
-      "OriginalAuthor": "instantsc",
+      "OriginalAuthor": "excore2",
       "Repositories": [
         {
-          "Author": "exApiTools",
+          "Author": "excore2",
           "Name": "ReAgent"
         }
       ],
       "Description": "Universal condition-action mapping plugin",
-      "EndorsedAuthor": "exApiTools"
-    },
-    {
-      "Name": "copilot",
-      "OriginalAuthor": "totalschaden",
-      "Repositories": [
-        {
-          "Author": "totalschaden",
-          "Name": "copilot"
-        }
-      ],
-      "Description": "Various automation helpers",
-      "EndorsedAuthor": "totalschaden"
-    },
-    {
-      "Name": "UniqueLootHelper",
-      "OriginalAuthor": "Arecurius0",
-      "Repositories": [
-        {
-          "Author": "Arecurius0",
-          "Name": "UniqueLootHelper"
-        }
-      ],
-      "Description": "Displays outline of unidentified valuable uniques",
-      "EndorsedAuthor": "Arecurius0"
-    },
-    {
-      "Name": "AltarHelper",
-      "OriginalAuthor": "bruno105",
-      "Repositories": [
-        {
-          "Author": "bruno105",
-          "Name": "AltarHelper"
-        }
-      ],
-      "Description": "Eldritch altar choice highlighting",
-      "EndorsedAuthor": "bruno105"
-    },
-    {
-      "Name": "BlightHelper",
-      "OriginalAuthor": "bruno105",
-      "Repositories": [
-        {
-          "Author": "bruno105",
-          "Name": "BlightHelper"
-        }
-      ],
-      "Description": "Highlights jewellery with valuable anointments",
-      "EndorsedAuthor": "bruno105"
+      "EndorsedAuthor": "excore2"
     },
     {
       "Name": "WhereAreYouGoing",
       "OriginalAuthor": "DetectiveSquirrel",
       "Repositories": [
         {
-          "Author": "DetectiveSquirrel",
-          "Name": "ExileAPI-WhereAreYouGoing"
+          "Author": "excore2",
+          "Name": "WhereAreYouGoing"
         }
       ],
       "Description": "Displays monster pathing",
-      "EndorsedAuthor": "DetectiveSquirrel"
+      "EndorsedAuthor": "excore2"
     },
     {
       "Name": "ExpeditionIcons",
-      "OriginalAuthor": "arturino009",
+      "OriginalAuthor": "excore2",
       "Repositories": [
         {
-          "Author": "instantsc",
-          "Name": "ExpeditionIcons"
-        },
-        {
-          "Author": "myrahz",
-          "Name": "ExpeditionIcons"
-        },
-        {
-          "Author": "arturino009",
+          "Author": "excore2",
           "Name": "ExpeditionIcons"
         }
       ],
       "Description": "Various improvements to the expedition world UI",
-      "EndorsedAuthor": "instantsc"
-    },
-    {
-      "Name": "NinjaPricer",
-      "OriginalAuthor": "DetectiveSquirrel",
-      "Repositories": [
-        {
-          "Author": "DetectiveSquirrel",
-          "Name": "Get-Chaos-Value"
-        },
-        {
-          "Author": "TheOptimisticFactory",
-          "Name": "Get-Chaos-Value"
-        },
-        {
-          "Author": "instantsc",
-          "Name": "Get-Chaos-Value"
-        }
-      ],
-      "Description": "Automatic pricing for uniques, currency, and a lot of other stuff",
-      "EndorsedAuthor": "instantsc"
-    },
-    {
-      "Name": "Tradie",
-      "OriginalAuthor": "nymann",
-      "Repositories": [
-        {
-          "Author": "nymann",
-          "Name": "Tradie"
-        },
-        {
-          "Author": "IlliumIv",
-          "Name": "Tradie"
-        },
-        {
-          "Author": "TiuDerca",
-          "Name": "Tradie"
-        }
-      ],
-      "Description": "Summary of the trade window contents"
-    },
-    {
-      "Name": "ProximityAlert",
-      "OriginalAuthor": "Lachrymatory",
-      "Repositories": [
-        {
-          "Author": "IlliumIv",
-          "Name": "ProximityAlert"
-        },
-        {
-          "Author": "vadash",
-          "Name": "ProximityAlert"
-        }
-      ],
-      "Description": "Mod/Metadata Path Warnings"
-    },
-    {
-      "Name": "ShowGroundEffects",
-      "OriginalAuthor": "arturino009",
-      "Repositories": [
-        {
-          "Author": "arturino009",
-          "Name": "ShowGroundEffects"
-        },
-        {
-          "Author": "vadash",
-          "Name": "ShowGroundEffects"
-        }
-      ],
-      "Description": "Circles for ground effect visibility"
-    },
-    {
-      "Name": "DevTree",
-      "OriginalAuthor": "Qvin?",
-      "Repositories": [
-        {
-          "Author": "TehCheat",
-          "Name": "DevTree"
-        },
-        {
-          "Author": "instantsc",
-          "Name": "DevTree"
-        }
-      ],
-      "Description": "Debugging various stuff"
-    },
-    {
-      "Name": "BetterSanctum",
-      "OriginalAuthor": "instantsc",
-      "Repositories": [
-        {
-          "Author": "instantsc",
-          "Name": "BetterSanctum"
-        }
-      ],
-      "Description": "Improves Sanctum experience. A little"
-    },
-    {
-      "Name": "HarvestPicker",
-      "OriginalAuthor": "instantsc",
-      "Repositories": [
-        {
-          "Author": "exApiTools",
-          "Name": "HarvestPicker"
-        }
-      ],
-      "Description": "Calculates harvest plot values"
-    },
-    {
-      "Name": "AncestorQol",
-      "OriginalAuthor": "instantsc",
-      "Repositories": [
-        {
-          "Author": "exApiTools",
-          "Name": "AncestorQol"
-        }
-      ],
-      "Description": "Displays tooltips for Ancestor league"
-    },
-    {
-      "Name": "BuffUtil",
-      "OriginalAuthor": "0xE0D59",
-      "Repositories": [
-        {
-          "Author": "0xE0D59",
-          "Name": "BuffUtil"
-        }
-      ],
-      "Description": "Uses various utility skills under specified conditions."
-    },
-    {
-      "Name": "FullRareSetManager",
-      "OriginalAuthor": "Stridemann",
-      "Repositories": [
-        {
-          "Author": "bruno105",
-          "Name": "FullRareSetManager"
-        },
-        {
-          "Author": "exApiTools",
-          "Name": "FullRareSetManager"
-        }
-      ],
-      "Description": "Manages chaos recipe sets"
-    },
-    {
-      "Name": "EssenceCorruptionHelper",
-      "OriginalAuthor": "deMathias",
-      "Repositories": [
-        {
-          "Author": "deMathias",
-          "Name": "EssenceCorruptionHelper"
-        }
-      ],
-      "Description": "Tags essences if they meet user specified criteria."
-    },
-    {
-      "Name": "SkillGems",
-      "OriginalAuthor": "DetectiveSquirrel",
-      "Repositories": [
-        {
-          "Author": "DetectiveSquirrel",
-          "Name": "SkillGems"
-        }
-      ],
-      "Description": "Fast Level Gems on the side",
-      "EndorsedAuthor": "DetectiveSquirrel"
-    },
-    {
-      "Name": "BroodyHen",
-      "OriginalAuthor": "IlliumIv",
-      "Repositories": [
-        {
-          "Author": "IlliumIv",
-          "Name": "BroodyHen"
-        }
-      ],
-      "Description": "Displays a frame above non-incubated items."
-    },
-    {
-      "Name": "MapNotify",
-      "OriginalAuthor": "Lachrymatory,Sirais,IlliumIv",
-      "Repositories": [
-        {
-          "Author": "Xcesius",
-          "Name": "MapNotify"
-        }
-      ],
-      "Description": "Displays various of map information on mouse cursor/inventory"
-    },
-    {
-      "Name": "EZVendor",
-      "OriginalAuthor": "vadash",
-      "Repositories": [
-        {
-          "Author": "vadash",
-          "Name": "EZVendor"
-        }
-      ],
-      "Description": "Vendors useless items"
+      "EndorsedAuthor": "excore2"
     },
     {
       "Name": "Stashie",
-      "OriginalAuthor": "nymann",
+      "OriginalAuthor": "excore2",
       "Repositories": [
         {
-          "Author": "DetectiveSquirrel",
+          "Author": "excore2",
           "Name": "Stashie"
         }
       ],
       "Description": "Stash management"
     },
     {
-      "Name": "PickItV2",
-      "OriginalAuthor": "exApiTools",
+      "Name": "PickIt",
+      "OriginalAuthor": "excore2",
       "Repositories": [
         {
-          "Author": "exApiTools",
+          "Author": "excore2",
           "Name": "PickItV2"
         }
       ],
@@ -327,107 +72,14 @@
     },
     {
       "Name": "NPCInventoryWithLinq",
-      "OriginalAuthor": "DetectiveSquirrel",
+      "OriginalAuthor": "excore2",
       "Repositories": [
         {
-          "Author": "DetectiveSquirrel",
+          "Author": "excore2",
           "Name": "NPCInvWithLinq"
         }
       ],
       "Description": "Highlights NPC items based on ItemFilterLibrary rules"
-    },
-    {
-      "Name": "GroundItemsWithLinq",
-      "OriginalAuthor": "DetectiveSquirrel",
-      "Repositories": [
-        {
-          "Author": "DetectiveSquirrel",
-          "Name": "Ground-Items-With-Linq"
-        }
-      ],
-      "Description": "Shows items on the ground based on ItemFilterLibrary rules"
-    },
-    {
-      "Name": "InventoryItemsWithLinq",
-      "OriginalAuthor": "mikkelpetersen",
-      "Repositories": [
-        {
-          "Author": "mikkelpetersen",
-          "Name": "ExileAPI-InvWithLinq"
-        }
-      ],
-      "Description": "Highlights inventory items"
-    },
-    {
-      "Name": "WhereTheWispsAt",
-      "OriginalAuthor": "DetectiveSquirrel",
-      "Repositories": [
-        {
-          "Author": "DetectiveSquirrel",
-          "Name": "WhereTheWispsAt"
-        },
-        {
-          "Author": "exApiTools",
-          "Name": "WhereTheWispsAt"
-        }
-      ],
-      "Description": "Displays Afflication zone wisps & Others"
-    },
-    {
-      "Name": "WhatAreYouDoing",
-      "OriginalAuthor": "DetectiveSquirrel",
-      "Repositories": [
-        {
-          "Author": "DetectiveSquirrel",
-          "Name": "WhatAreYouDoing"
-        }
-      ],
-      "Description": "Displays Labyrinth trap movements"
-    },
-    {
-      "Name": "GuardianStats",
-      "OriginalAuthor": "DetectiveSquirrel",
-      "Repositories": [
-        {
-          "Author": "DetectiveSquirrel",
-          "Name": "Guardians-R-Us"
-        }
-      ],
-      "Description": "Displays meaningful information about your Guardian"
-    },
-    {
-      "Name": "LevelingHelper",
-      "OriginalAuthor": "TehCheat",
-      "Repositories": [
-        {
-          "Author": "TehCheat",
-          "Name": "LevelingHelper"
-        }
-      ],
-      "Description": "Suggests killing more/less monsters during leveling"
-    },
-    {
-      "Name": "AtlasHelper",
-      "OriginalAuthor": "myrahz",
-      "Repositories": [
-        {
-          "Author": "myrahz",
-          "Name": "AtlasHelper"
-        }
-      ],
-      "Description": "Suggests best maps to run based on completion/upgrade drop chance"
-    },
-    {
-      "Name": "VillageHelper",
-      "OriginalAuthor": "instantsc",
-      "Repositories": [
-        {
-          "Author": "instantsc",
-          "Location": "exApiTools",
-          "Name": "VillageHelper"
-        }
-      ],
-      "Description": "Helps with the 3.25 league management"
     }
   ]
 }
