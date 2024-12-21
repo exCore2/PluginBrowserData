@@ -30,7 +30,7 @@
       "Repositories": [
         {
           "Author": "excore2",
-          "Name": "WhereAreYouGoing"
+          "Name": "WhereAreYouGoing-PoE2"
         }
       ],
       "Description": "Displays monster pathing",
@@ -65,7 +65,7 @@
       "Repositories": [
         {
           "Author": "excore2",
-          "Name": "PickItV2"
+          "Name": "PickIt"
         }
       ],
       "Description": "Picks up items"
