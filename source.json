@@ -80,6 +80,17 @@
         }
       ],
       "Description": "Highlights NPC items based on ItemFilterLibrary rules"
+    },
+    {
+      "Name": "MarketWizard",
+      "OriginalAuthor": "excore2",
+      "Repositories": [
+        {
+          "Author": "excore2",
+          "Name": "MarketWizard"
+        }
+      ],
+      "Description": "CurrencyExchange stats at a glance"
     }
   ]
 }
