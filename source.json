@@ -91,6 +91,83 @@
         }
       ],
       "Description": "CurrencyExchange stats at a glance"
+    },
+    {
+      "Name": "MinimapIcons",
+      "OriginalAuthor": "excore2",
+      "Repositories": [
+        {
+          "Author": "excore2",
+          "Name": "MinimapIcons"
+        }
+      ],
+      "Description": "Minimap icons (duh)"
+    },
+    {
+      "Name": "HealthBars",
+      "OriginalAuthor": "excore2",
+      "Repositories": [
+        {
+          "Author": "excore2",
+          "Name": "HealthBars"
+        }
+      ],
+      "Description": "Customizable monster/player healthbars"
+    },
+    {
+      "Name": "HighlightedItems",
+      "OriginalAuthor": "excore2",
+      "Repositories": [
+        {
+          "Author": "excore2",
+          "Name": "HighlightedItems"
+        }
+      ],
+      "Description": "Adhoc filtering and dumping to/from stash"
+    },
+    {
+      "Name": "AutoMyAim",
+      "OriginalAuthor": "DetectiveSquirrel",
+      "Repositories": [
+        {
+          "Author": "DetectiveSquirrel",
+          "Name": "AutoMyAim"
+        }
+      ],
+      "Description": "Auto aiming"
+    },
+    {
+      "Name": "WheresMyCursor",
+      "OriginalAuthor": "DetectiveSquirrel",
+      "Repositories": [
+        {
+          "Author": "DetectiveSquirrel",
+          "Name": "WheresMyCursor-PoE2"
+        }
+      ],
+      "Description": "Cursor tracking"
+    },
+    {
+      "Name": "SkillDPS",
+      "OriginalAuthor": "DetectiveSquirrel",
+      "Repositories": [
+        {
+          "Author": "DetectiveSquirrel",
+          "Name": "SkillDPS-PoE2"
+        }
+      ],
+      "Description": "Skill dps"
+    },
+    {
+      "Name": "CharacterData",
+      "OriginalAuthor": "DetectiveSquirrel",
+      "Repositories": [
+        {
+          "Author": "DetectiveSquirrel",
+          "Name": "CharacterData-PoE2"
+        }
+      ],
+      "Description": "Misc character info"
     }
   ]
 }
