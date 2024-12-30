@@ -168,6 +168,17 @@
         }
       ],
       "Description": "Misc character info"
+    },
+    {
+      "Name": "PathfindSanctum",
+      "OriginalAuthor": "deafwave",
+      "Repositories": [
+        {
+          "Author": "deafwave",
+          "Name": "PathfindSanctum-PoE2"
+        }
+      ],
+      "Description": "Navigating Sanctum Trials"
     }
   ]
 }
