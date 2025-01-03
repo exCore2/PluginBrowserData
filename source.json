@@ -179,6 +179,39 @@
         }
       ],
       "Description": "Navigating Sanctum Trials"
+    },
+    {
+      "Name": "EffectZones",
+      "OriginalAuthor": "excore2",
+      "Repositories": [
+        {
+          "Author": "excore2",
+          "Name": "EffectZones"
+        }
+      ],
+      "Description": "Effect zones, duh"
+    },
+    {
+      "Name": "WheresMyZoomAtAt",
+      "OriginalAuthor": "doubleespressobro",
+      "Repositories": [
+        {
+          "Author": "doubleespressobro",
+          "Name": "WheresMyZoomAt-PoE2"
+        }
+      ],
+      "Description": "Zoom out and similar camera editing"
+    },
+    {
+      "Name": "ExileMaps",
+      "OriginalAuthor": "syrairc",
+      "Repositories": [
+        {
+          "Author": "syrairc",
+          "Name": "ExileMaps"
+        }
+      ],
+      "Description": "Atlas information overlay"
     }
   ]
 }
