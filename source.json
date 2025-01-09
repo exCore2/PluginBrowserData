@@ -37,6 +37,18 @@
       "EndorsedAuthor": "excore2"
     },
     {
+      "Name": "NinjaPricer",
+      "OriginalAuthor": "DetectiveSquirrel",
+      "Repositories": [
+        {
+          "Author": "excore2",
+          "Name": "NinjaPricer"
+        }
+      ],
+      "Description": "Item pricing",
+      "EndorsedAuthor": "excore2"
+    },
+    {
       "Name": "ExpeditionIcons",
       "OriginalAuthor": "excore2",
       "Repositories": [
