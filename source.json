@@ -224,6 +224,17 @@
         }
       ],
       "Description": "Atlas information overlay"
+    },
+    {
+      "Name": "Preloads Revised",
+      "OriginalAuthor": "DetectiveSquirrel",
+      "Repositories": [
+        {
+          "Author": "DetectiveSquirrel",
+          "Name": "PreloadsRevised"
+        }
+      ],
+      "Description": "Shows configured preloads in the instance"
     }
   ]
 }
